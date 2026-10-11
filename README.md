@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,35,42&height=220&section=header&text=Hi%20there,%20I'm%20Enbaraj!%20👋&fontSize=42&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Technical%20Team%20Lead%20%7C%20Python%20%26%20React&descFontSize=19&descAlignY=58" width="100%"/>
+  <img src="./banner.svg" width="100%" alt="Enbaraj Roovechandar Banner"/>
 </div>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%26+Technical+Lead;Architecting+Enterprise+Web+Platforms;Python+%E2%80%A2+Django+%E2%80%A2+React.js+%E2%80%A2+MySQL;Certified+Python+Developer+%40+HackerRank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%26+Technical+Lead;Architecting+Enterprise+Web+Platforms;Python+%E2%80%A2+Django+%E2%80%A2+React.js+%E2%80%A2+MySQL;Certified+Python+Developer+%40+HackerRank" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%26+Technical+Lead;Architecting+Enterprise+Web+Platforms;Python+%E2%80%A2+Django+%E2%80%A2+React.js+%E2%80%A2+MySQL;Certified+Python+Developer+%40+HackerRank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%26+Technical+Lead;Architecting+Enterprise+Web+Platforms;Python+%E2%80%A2+Django+%E2%80%A2+React.js+%E2%80%A2+MySQL;Certified+Python+Developer+%40+HackerRank" alt="Typing SVG" />
   </a>
 </div>
 
@@ -119,7 +119,3 @@ class Enbaraj:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,35,42&height=90&section=footer" width="100%"/>
-</div>
