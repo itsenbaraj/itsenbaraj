@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%26+Technical+Lead;Architecting+Enterprise+Web+Platforms;Python+%E2%80%A2+Django+%E2%80%A2+React.js+%E2%80%A2+MySQL;Certified+Python+Developer+%40+HackerRank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%26+Technical+Lead;Architecting+Enterprise+Web+Platforms;Python+%E2%80%A2+Django+%E2%80%A2+React.js+%E2%80%A2+MySQL;Certified+Python+Developer+%40+HackerRank" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%26+Technical+Lead;Architecting+Enterprise+Web+Platforms;Python+%E2%80%A2+Django+%E2%80%A2+React.js+%E2%80%A2+MySQL;Certified+Python+%26+Advanced+SQL+%40+HackerRank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%26+Technical+Lead;Architecting+Enterprise+Web+Platforms;Python+%E2%80%A2+Django+%E2%80%A2+React.js+%E2%80%A2+MySQL;Certified+Python+%26+Advanced+SQL+%40+HackerRank" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,14 +25,17 @@ class Enbaraj:
             "enterprise": "Directing 15-member engineering squad on SafeNod",
             "open_source": "MousePilot (Python desktop automation operating under 15MB RAM)",
             "gaming_collab": "The Miscreant Studios Web Platform",
-            "certifications": "HackerRank Certified Python Developer"
+            "certifications": ["HackerRank Python (Basic)", "HackerRank SQL (Advanced)"]
         }
 ```
 
 - 🔭 **Technical Team Lead @ Karanodaka**: Spearheading engineering sprints, code reviews, and architecture for enterprise security platforms.
 - ⚡ **Performance-Obsessed**: Specializing in sub-500ms dashboard latencies, reusable React component systems, and resilient Python/Django backends.
 - 🏆 **Recognitions**: Awarded *Employee of the Month* twice (Q1 & Q2 2026) for engineering delivery and architectural ownership.
-- 📜 **Certified**: Verified [Python (Basic) Certification](https://www.hackerrank.com/certificates/4b7a0ef6cdb2) on HackerRank & 500+ hrs Full Stack Python Development.
+- 📜 **Verified Certifications**:
+  - 🥇 [SQL (Advanced) Certification](https://www.hackerrank.com/certificates/0e7d94bacbcf) — HackerRank (`0E7D94BACBCF`)
+  - 🐍 [Python (Basic) Certification](https://www.hackerrank.com/certificates/4b7a0ef6cdb2) — HackerRank (`4B7A0EF6CDB2`)
+  - 🎓 Full Stack Python Development (500+ Hours) — Besant Technologies
 
 ---
 
@@ -111,8 +114,12 @@ class Enbaraj:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://www.hackerrank.com/certificates/0e7d94bacbcf" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank_SQL_Advanced-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://www.hackerrank.com/certificates/4b7a0ef6cdb2" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank_Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:itsenbaraj@gmail.com">
