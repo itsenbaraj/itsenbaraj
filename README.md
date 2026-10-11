@@ -23,6 +23,7 @@ class Enbaraj:
     def current_focus(self):
         return {
             "enterprise": "Directing 15-member engineering squad on SafeNod",
+            "open_source": "MousePilot (Python desktop automation operating under 15MB RAM)",
             "gaming_collab": "The Miscreant Studios Web Platform",
             "certifications": "HackerRank Certified Python Developer"
         }
@@ -46,9 +47,28 @@ class Enbaraj:
 
 ---
 
-### 🚀 Featured Engagements & Collaborations
+### 🚀 Highlighted Collaborations & Projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🚀 <a href="https://github.com/itsenbaraj/mousepilot">MousePilot</a></h3>
+      <p>Open-source Python desktop automation utility with multi-threaded trajectory calculations operating under 15MB RAM footprint.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/Performance-Sub--15MB_RAM-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/OS-Windows_Utility-orange?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🌐 <a href="https://github.com/itsenbaraj/mousepilot-website">MousePilot Official Website</a></h3>
+      <p>Official product landing page and distribution hub for MousePilot, engineered with responsive layout geometry and modern UX.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web-Product_Landing-teal?style=flat-square" />
+        <img src="https://img.shields.io/badge/Design-Responsive-blue?style=flat-square" />
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">🎮 The Miscreant Studios</h3>
